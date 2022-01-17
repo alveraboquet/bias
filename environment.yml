@@ -1,5 +1,4 @@
 dependencies:
-  - alive_progress=2.1.0
   - ccxt=1.63.88
   - matplotlib=3.5.0
   - numpy=1.21.1
